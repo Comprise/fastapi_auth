@@ -1,0 +1,6 @@
+fastapi[all]
+passlib[bcrypt]
+python-jose[cryptography]
+alembic
+email-validator
+psycopg2-binary
